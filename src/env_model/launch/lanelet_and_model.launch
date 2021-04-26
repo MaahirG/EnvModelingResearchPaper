@@ -1,0 +1,4 @@
+<launch>
+    <include file="$(find pp_env_model)/launch/lanelet2_map_server.launch" />
+    <include file="$(find pp_env_model)/launch/env_model.launch" />
+</launch>
