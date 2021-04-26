@@ -6,9 +6,9 @@ Environment modeling is the backbone of how autonomous agents understand the wor
 ## Videos
 
 ### GIFs
-| Intersection signage modeling demo        | Pedestrian modeling demo | 
+| Pedestrian modeling demo        | Intersection signage modeling demo | 
 | ------------- |:-------------:|
-| <img src="images/sign_route.gif" width="500">     | <img src="images/ped_model.gif" width="500"> |
+| <img src="images/ped_model.gif" width="500">     | <img src="images/sign_route.gif" width="500"> |
 ### YouTube Videos
 | Full pedestrian modeling demo        | Presentation on main ideas |
 | ------------- |:-------------:|
