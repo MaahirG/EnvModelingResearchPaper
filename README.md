@@ -3,6 +3,8 @@
 ## Abstract
 Environment modeling is the backbone of how autonomous agents understand the world, and therefore has significant implications for decision-making and verification. Urban driving environments are challenging to model due to the large number of heterogeneous features and high level of uncertainty associated with the state of those features. Motivated by the success of *a priori* relational modeling frameworks such as Lanelet2, in this letter, we present a novel method for extending the *a priori* relationship graph to include online observations, creating a unified environment model of both *a priori* and online data sources. The proposed techniques focus on a finite set of heterogeneous features: stop signs, signs affecting intersection traversal (e.g. no X-turn), construction roadway blockages, and pedestrian movement prediction. The overall framework can be expanded to include a wide range of other features in a fashion that does not increase the complexity of behavioral planning. Qualitative and quantitative assessments have been conducted to demonstrate the effectiveness of the proposed model in reducing the complexity of the behavioral planning.
 
+Repo credit goes to Rowan Dempster.
+
 ## Videos
 
 ### GIFs
